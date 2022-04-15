@@ -194,6 +194,7 @@ channels:
 dependencies:
   - cloudpickle={cloudpickle.__version__}
   - numpy={numpy.__version__}
+  
   - pandas={pandas.__version__}
   - scikit-learn={sklearn.__version__}
   - pip:
